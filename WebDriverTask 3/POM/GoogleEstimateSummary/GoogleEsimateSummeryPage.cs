@@ -1,9 +1,4 @@
 ﻿using OpenQA.Selenium;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using WebDriverTask_3.POM.AbstractEntity;
 
 namespace WebDriverTask_3.POM.GoogleEstimateSummary

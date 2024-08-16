@@ -1,7 +1,4 @@
 ﻿using OpenQA.Selenium;
-using OpenQA.Selenium.Support.UI;
-using System.Runtime.InteropServices;
-using System.Xml.Linq;
 using WebDriverTask_3.POM.AbstractEntity;
 using WebDriverTask_3.POM.GoogleEstimateSummary;
 

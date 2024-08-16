@@ -1,0 +1,15 @@
+{
+  "TestData": {
+    "CalculatorType": "Compute Engine",
+    "NumberOfInstances": "4",
+    "OperatingSystem": "Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)",
+    "ProvisioningModel": "Regular",
+    "MachineFamily": "General Purpose",
+    "Series": "N1",
+    "MachineType": "n1-standard-8",
+    "GPUType": "NVIDIA V100",
+    "NumberOfGPUs": "1",
+    "LocalSSD": "2x375 GB",
+    "Region": "Netherlands (europe-west4)"
+  }
+}

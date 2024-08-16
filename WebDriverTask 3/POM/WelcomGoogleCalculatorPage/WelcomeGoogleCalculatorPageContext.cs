@@ -2,7 +2,7 @@
 using WebDriverTask_3.POM.AbstractEntity;
 using WebDriverTask_3.POM.GooglePricingCalculatorPage;
 
-namespace WebDriverTask_3.POM
+namespace WebDriverTask_3.POM.WelcomGoogleCalculatorPage
 {
     internal class WelcomeGoogleCalculatorPageContext : AbstractPageContext
     {
@@ -11,7 +11,7 @@ namespace WebDriverTask_3.POM
         public WelcomeGoogleCalculatorPageContext(IWebDriver driver)
         {
             this.driver = driver;
-            this.welcomeGoogleCalculatorPage = new WelcomeGoogleCalculatorPage(driver);
+            welcomeGoogleCalculatorPage = new WelcomeGoogleCalculatorPage(driver);
         }
 
         public WelcomeGoogleCalculatorPageContext clickButtonAddToEstimate()
